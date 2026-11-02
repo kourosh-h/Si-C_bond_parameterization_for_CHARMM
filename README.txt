@@ -8,7 +8,7 @@ scans of the Si-C1 and C4-C5 bonds, calibrated on the CHARMM C-C bond.
 
 Files
 Si-C_bond_parameterization_for_CHARMM.ipynb   the calculation, from the ORCA files to the length and force constant
-figures/                                       figures shown in the notebook (PNG and PDF)
+figures/                                       the figures of the notebook, as PNG and PDF files
 ORCA_results/relaxation/                       relaxation and vibrational frequencies of the molecule (its own README.txt)
 ORCA_results/bond_scans/Si-C/                  relaxed scan of the Si-C1 bond, 50 points from 1.80 to 1.94 Angstrom
 ORCA_results/bond_scans/C4-C5/                 relaxed scan of the C4-C5 bond, 50 points from 1.45 to 1.59 Angstrom
